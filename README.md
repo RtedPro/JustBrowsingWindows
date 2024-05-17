@@ -9,3 +9,4 @@ Based on Windows 10 2004 PE.
 2+ GB RAM
 2 CPU Cores
 # Download Links
+Supermium Latest x64: https://github.com/RtedPro/JustBrowsingWindows/releases/tag/SuperLite
